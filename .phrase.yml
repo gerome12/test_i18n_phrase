@@ -6,7 +6,8 @@ phrase:
     - file: locale/fr.json
       params:
         file_format: simple_json
-        update_translations: true 
+        update_translations: true
+        locale_id: 20b6dc6960699d169f2633c1be5bdd75
         
   pull:
     targets:
@@ -14,3 +15,4 @@ phrase:
       params:
         file_format: simple_json
         include_unverified_translations: true
+        locale_id: 630f283e75c063fbdd080e8b027a450c
