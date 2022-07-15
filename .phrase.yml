@@ -16,3 +16,9 @@ phrase:
         file_format: simple_json
         include_unverified_translations: true
         locale_id: 630f283e75c063fbdd080e8b027a450c
+        
+    - file: ./locale/it.json
+      params:
+        file_format: simple_json
+        include_unverified_translations: true
+        locale_id: 504caf2896e944b7b023cdc35cc1d091
