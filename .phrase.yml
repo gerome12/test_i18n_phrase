@@ -1,0 +1,14 @@
+phrase:
+  project_id: 68b322b313e8e7b729bb377fd5886db7
+  
+  push:
+    sources:
+    - file: ./locale/*.json
+      params:
+        update_translations: true 
+        
+  pull:
+    targets:
+    - file: "./locale/*.json"
+      params:
+        include_unverified_translations: true
