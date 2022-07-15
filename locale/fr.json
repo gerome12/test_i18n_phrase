@@ -1,1 +1,4 @@
-
+{
+  "app.test":"un test",
+  "app.toto":"son nom"
+}
