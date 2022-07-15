@@ -1,6 +1,7 @@
 {
-  "app.test":"un test",
-  "app.toto":"son nom",
-  "app.button.save":"Sauvegarder",
-  "app.button.back":"retour"
+  "app.button.back": "retour",
+  "app.button.save": "Sauvegarder",
+  "app.test": "un test",
+  "app.toto": "son nom",
+  "first_key": "premier"
 }
