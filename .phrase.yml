@@ -3,12 +3,12 @@ phrase:
   
   push:
     sources:
-    - file: ./locale/*.json
+    - file: locale/*.json
       params:
         update_translations: true 
         
   pull:
     targets:
-    - file: "./locale/*.json"
+    - file: "locale/*.json"
       params:
         include_unverified_translations: true
