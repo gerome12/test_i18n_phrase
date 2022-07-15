@@ -5,10 +5,12 @@ phrase:
     sources:
     - file: locale/fr.json
       params:
+        file_format: simple_json
         update_translations: true 
         
   pull:
     targets:
     - file: "locale/en.json"
       params:
+        file_format: simple_json
         include_unverified_translations: true
