@@ -2,6 +2,7 @@
   "app.button.back": "retour",
   "app.button.save": "Sauvegarder",
   "app.test": "un test",
-  "app.toto": "son nom",
+  "app.toto": "son nom toto",
+  "app.titi": "son nom titi",
   "first_key": "premier"
 }
