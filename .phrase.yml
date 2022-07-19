@@ -15,6 +15,12 @@ phrase:
         update_translations: true
         locale_id: 504caf2896e944b7b023cdc35cc1d091
         
+    - file: ./locale/en.json
+      params:
+        file_format: simple_json
+        update_translations: true
+        locale_id: 630f283e75c063fbdd080e8b027a450c
+        
   pull:
     targets:
     - file: ./locale/en.json
