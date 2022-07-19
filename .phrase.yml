@@ -20,6 +20,12 @@ phrase:
         file_format: simple_json
         update_translations: true
         locale_id: 630f283e75c063fbdd080e8b027a450c
+            
+    - file: ./locale/de.json
+      params:
+        file_format: simple_json
+        update_translations: true
+        locale_id: 630f283e75c063fbdd080e8b027a450d
         
   pull:
     targets:
@@ -28,6 +34,12 @@ phrase:
         file_format: simple_json
         include_unverified_translations: true
         locale_id: 630f283e75c063fbdd080e8b027a450c
+        
+    - file: ./locale/de.json
+      params:
+        file_format: simple_json
+        include_unverified_translations: true
+        locale_id: 630f283e75c063fbdd080e8b027a450d
         
     - file: ./locale/it.json
       params:
